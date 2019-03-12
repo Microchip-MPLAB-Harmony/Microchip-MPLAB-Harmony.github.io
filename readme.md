@@ -9,8 +9,8 @@ and microprocessor devices.  Refer to the following links for more information.
  - [Microchip MPLAB Harmony](https://www.microchip.com/mplab/mplab-harmony)
  - [Microchip MPLAB Harmony Pages](https://microchip-mplab-harmony.github.io/)
 
-This repository contains the source files for the MPLAB® Harmony Pages website
-(see previous link).
+This repository contains the source files for the Microchip MPLAB® Harmony Pages
+website (see previous link).
 
  - These pages are kept up to date with the latest information.
  - Report issues to [www.microchip.com/support](http://microchip.com/support).
